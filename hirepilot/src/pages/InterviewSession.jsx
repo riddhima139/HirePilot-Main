@@ -3,7 +3,7 @@ import * as faceapi from "face-api.js";
 
 
 
-const BASE_URL = "http://localhost:8001";
+const BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:8001";
 
 // ─── CSS ────────────────────────────────────────────────────────────────────
 const styles = `

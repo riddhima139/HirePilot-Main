@@ -5,7 +5,7 @@ function Leaderboard() {
 
   // 🔥 Fetch from backend
   useEffect(() => {
-    fetch("http://127.0.0.1:8001/leaderboard")
+    fetch(`${import.meta.env.VITE_API_URL || "http://127.0.0.1:8001"}/leaderboard`)
       .then((res) => res.json())
       .then((data) => {
         const formatted = data.map((item, index) => ({
