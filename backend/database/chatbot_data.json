@@ -1,0 +1,100 @@
+[
+  {"question":"tell me about yourself","answer":"Start with your background, education, key skills, projects, and explain why you are interested in the role."},
+  {"question":"why should we hire you","answer":"Highlight your skills, achievements, and how you can contribute to the company."},
+  {"question":"what are your strengths","answer":"Mention strengths like communication, problem solving, and adaptability with examples."},
+  {"question":"what are your weaknesses","answer":"Mention a weakness and explain how you are improving it."},
+  {"question":"why do you want this job","answer":"Show interest in the role and how it aligns with your career goals."},
+  {"question":"where do you see yourself in 5 years","answer":"Talk about growth, learning, and contributing to the company."},
+  {"question":"what motivates you","answer":"Learning new skills, achieving goals, and solving problems."},
+  {"question":"how do you handle stress","answer":"Stay calm, prioritize tasks, and manage time effectively."},
+  {"question":"describe a challenge you faced","answer":"Use the STAR method to explain the situation, your action, and result."},
+  {"question":"what is your biggest achievement","answer":"Talk about a specific achievement and its impact."},
+
+  {"question":"how to improve confidence","answer":"Practice mock interviews, speak clearly, and maintain eye contact."},
+  {"question":"how to prepare for interview","answer":"Research company, practice questions, review resume."},
+  {"question":"tips for interview preparation","answer":"Prepare answers, practice mock interviews, and stay confident."},
+  {"question":"how to crack interview","answer":"Practice regularly, stay confident, and improve weak areas."},
+  {"question":"how to stay calm in interview","answer":"Take deep breaths and focus on answering clearly."},
+  {"question":"how to speak confidently","answer":"Practice speaking slowly and maintain eye contact."},
+  {"question":"how to improve communication skills","answer":"Practice speaking, read more, and engage in discussions."},
+  {"question":"how to improve body language","answer":"Maintain eye contact, sit straight, and use natural gestures."},
+
+  {"question":"common hr interview questions","answer":"Tell me about yourself, strengths, weaknesses, why hire you."},
+  {"question":"how to answer tell me about yourself","answer":"Structure your answer: background, skills, goals."},
+  {"question":"how to answer why should we hire you","answer":"Show your value and how you fit the role."},
+  {"question":"how to answer strengths and weaknesses","answer":"Be honest, give examples, and show improvement."},
+  {"question":"how to answer behavioral questions","answer":"Use the STAR method."},
+  {"question":"what is star method","answer":"Situation, Task, Action, Result."},
+
+  {"question":"how do you work in a team","answer":"Communicate clearly and support team members."},
+  {"question":"how do you handle conflict","answer":"Stay calm and find a solution through discussion."},
+  {"question":"how do you manage time","answer":"Prioritize tasks and meet deadlines."},
+  {"question":"what are your career goals","answer":"Explain short and long-term goals aligned with role."},
+  {"question":"what are your hobbies","answer":"Mention hobbies that show positive qualities."},
+
+  {"question":"how to prepare resume","answer":"Keep it clear, highlight skills and achievements."},
+  {"question":"how to improve resume","answer":"Add measurable achievements and remove unnecessary info."},
+  {"question":"what should be included in resume","answer":"Education, skills, projects, experience."},
+  {"question":"how to make resume strong","answer":"Use clear format and highlight impact."},
+
+  {"question":"what are technical interview questions","answer":"They test coding, problem solving, and concepts."},
+  {"question":"how to improve coding skills","answer":"Practice coding problems daily."},
+  {"question":"how to improve problem solving skills","answer":"Practice logical thinking and analyze solutions."},
+
+  {"question":"how to answer why do you want to join our company","answer":"Show knowledge about company and align with your goals."},
+  {"question":"what are your expectations from job","answer":"Learning, growth, and contribution."},
+  {"question":"how to answer salary expectations","answer":"Give reasonable range based on research."},
+
+  {"question":"how to introduce yourself in interview","answer":"Start with name, education, skills, and goals."},
+  {"question":"how to answer situational questions","answer":"Use real examples and explain clearly."},
+
+  {"question":"i am nervous in interview","answer":"Practice mock interviews and prepare well."},
+  {"question":"i lack confidence","answer":"Practice speaking and focus on preparation."},
+  {"question":"how to improve english speaking","answer":"Practice daily, watch videos, and speak regularly."},
+
+  {"question":"how to prepare for hr round","answer":"Prepare personal questions and examples."},
+  {"question":"how to prepare for technical interview","answer":"Revise concepts and practice coding."},
+
+  {"question":"what is teamwork","answer":"Working together to achieve a common goal."},
+  {"question":"what is leadership","answer":"Ability to guide and motivate a team."},
+
+  {"question":"what is communication skill","answer":"Ability to convey ideas clearly."},
+  {"question":"why is communication important","answer":"It helps in teamwork and clarity."},
+
+  {"question":"how to answer why should we hire freshers","answer":"Highlight learning ability and adaptability."},
+  {"question":"how to impress interviewer","answer":"Be confident, clear, and prepared."},
+
+  {"question":"what to do before interview","answer":"Research company and practice answers."},
+  {"question":"what to do during interview","answer":"Stay calm and answer clearly."},
+  {"question":"what to do after interview","answer":"Follow up with a thank you message."},
+
+  {"question":"what mistakes to avoid in interview","answer":"Avoid lack of preparation and unclear answers."},
+  {"question":"how to answer tricky questions","answer":"Stay calm and think before answering."},
+
+  {"question":"how to improve personality","answer":"Work on communication, confidence, and behavior."},
+  {"question":"how to develop soft skills","answer":"Practice communication and teamwork."},
+
+  {"question":"how to handle rejection","answer":"Learn from mistakes and improve."},
+  {"question":"how to improve interview skills","answer":"Practice and review feedback."},
+
+  {"question":"what is confidence","answer":"Belief in your abilities."},
+  {"question":"what is self improvement","answer":"Improving skills and behavior over time."},
+
+  {"question":"how to answer gap in resume","answer":"Explain honestly and show learning during gap."},
+  {"question":"how to explain projects in interview","answer":"Explain problem, solution, and your role."},
+
+  {"question":"how to answer what is your passion","answer":"Talk about something meaningful and related."},
+  {"question":"how to answer what is your dream job","answer":"Explain role where you can grow."},
+
+  {"question":"how to behave in interview","answer":"Be polite, confident, and attentive."},
+  {"question":"what is professional behavior","answer":"Respectful and responsible conduct."},
+
+  {"question":"how to improve listening skills","answer":"Focus and avoid distractions."},
+  {"question":"how to improve focus","answer":"Avoid distractions and plan tasks."},
+
+  {"question":"how to answer why you left previous job","answer":"Give positive reason and focus on growth."},
+  {"question":"how to answer strengths example","answer":"Give real example supporting your strength."},
+
+  {"question":"how to answer weakness example","answer":"Mention weakness and improvement steps."},
+  {"question":"how to improve technical knowledge","answer":"Practice and learn regularly."}
+]

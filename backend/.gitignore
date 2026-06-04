@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+venv/
+
+# Env file
+.env
+
+# Uploaded files
+uploaded_*.pdf
+audio_*.wav
+
+# OS
+.DS_Store
+Thumbs.db
